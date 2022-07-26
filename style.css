@@ -1,0 +1,77 @@
+body {}
+
+.first-section {
+    display: flex;
+    margin: 50px 100px;
+}
+
+.half-1 {
+    width: 50%;
+    padding-left: 20px;
+}
+
+.stay-focused {
+    font-size: 30px;
+    border-left: 5px solid red;
+    padding-left: 10px;
+}
+
+.mission {
+    color: #eaae3f;
+}
+
+.explore {
+    background-color: #e4617b;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-size: medium;
+}
+
+.person-0 {
+    width: 300px;
+    padding-left: 5%;
+}
+
+.m2022 {
+    color: #eaae3f;
+
+}
+
+.second-section {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.third-section {
+    display: flex;
+    margin: 50px 100px;
+}
+
+.chobi {
+    width: 200px;
+    height: 200px;
+}
+
+.illus-1 {
+    background-color: rgba(153, 162, 172, 0.145);
+    border-radius: 10px;
+    margin: 10px;
+    padding-left: 20px;
+}
+
+.illus-2 {
+    background-color: #caa4ac5e;
+    border-radius: 10px;
+    margin: 10px;
+    padding-left: 20px;
+}
+
+.illus-3 {
+    background-color: rgba(202, 176, 136, 0.318);
+    border-radius: 10px;
+    margin: 10px;
+    padding-left: 20px;
+}
