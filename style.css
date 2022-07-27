@@ -120,3 +120,43 @@ body {}
     width: 50%;
     padding-left: 300px;
 }
+
+.build {
+    width: 50%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.corona {
+    color: #eaae3f;
+}
+
+.sixth-section {
+
+    display: flex;
+    font-size: 30px;
+    font-weight: 700;
+    background-image: url(mission-2022-Main/images/shapes/shape-2.png);
+    background-size: 50px;
+    background-repeat: no-repeat;
+}
+
+.app {
+    color: wheat;
+    text-decoration: none;
+    background-color: #e62712;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.missi {
+    text-align: center;
+    color: white;
+    font-weight: 800;
+    background-color: rgb(6, 6, 67);
+}
+
+.two {
+    color: aqua;
+}
